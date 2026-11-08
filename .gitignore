@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+*.user
+NetIntel.Web/App_Data/
+NetIntel.Web/inbox/
